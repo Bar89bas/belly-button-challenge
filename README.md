@@ -14,17 +14,17 @@ Methodology:
 
 Tasks Performed:
 
-1.	Displaying the top 10 OTUs found in an individual with horizontal bar chart 
+Displaying the top 10 OTUs found in an individual with horizontal bar chart 
         i.	Sample values – Values of the bar chart
         ii.	Out_ids – labels for the bar chart
         iii.	Out_labels – hovertext for the chart
 
-2.	Displaying each sample with bubble char 
+Displaying each sample with bubble char 
         i.	Out_ids – x values 
         ii.	Sample_values – y values and marker size
         iii.	Out_ids – marker colors
         iv.	Out_labels – text values
 
-3.	Displaying an individual demographic information
+Displaying an individual demographic information
    
-5.	Displaying weekly washing frequency of the individual with the Guage Chart 
+Displaying weekly washing frequency of the individual with the Guage Chart 
